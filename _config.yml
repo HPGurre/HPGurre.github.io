@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Hans Peter Jensen"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "There is a conclusion to my illusion"
   location         : "Helsingør, Denmark"
   email            :
